@@ -1,0 +1,21 @@
+site_name: Prácticas ASIX
+site_author: Irene P.A
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+
+nav:
+  - Inicio: index.md
+  - Práctica 1: practica1.md
+  - Práctica 2: practica2.md
+  - Práctica 3: practica3.md
