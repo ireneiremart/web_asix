@@ -17,3 +17,7 @@ En esta web iré organizando las distintas prácticas realizadas durante el curs
 Esta página está creada con MkDocs y el tema Material.
 
 El objetivo es tener las prácticas organizadas y publicadas en GitHub Pages.
+
+## Prueba de integración continua
+
+Este cambio se ha publicado automáticamente mediante GitHub Actions.
